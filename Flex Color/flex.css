@@ -1,0 +1,32 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	background-color: #FFFFE0;
+}
+
+h1{
+	text-align: center;
+	margin-top: 50px;
+	text-shadow: 3px 3px 7px rgba(233, 150, 122, 0.7);
+}
+
+.container {
+	background-color: #BDB76B;
+	width: 95%;
+	height:  500px;
+	margin: 0 auto;
+	margin-top: 30px;
+	border: 5px solid #D0CEB2;
+	display: flex;
+	position: relative;
+	flex-direction: row;
+	box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.6);
+}
+
+.container div {
+	width: 200px;
+	height: 140px;
+	margin-top: 180px;
+	margin-right: 70px;
+	margin-left: 60px;
+	box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
